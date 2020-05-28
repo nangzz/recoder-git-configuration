@@ -1,0 +1,6 @@
+gateway:
+  ip: 59.29.224.144
+
+token:
+  expiration_time: 86400000 # 1days miiliseconds (하루짜리 토큰)
+  secret: test_secret
