@@ -3,4 +3,4 @@ gateway:
 
 token:
   expiration_time: 86400000 # 1days miiliseconds (하루짜리 토큰)
-  secret: test_secret
+  secret: recoder_secret
